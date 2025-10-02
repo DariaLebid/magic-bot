@@ -1,0 +1,1 @@
+worker: python magic_bot.py
