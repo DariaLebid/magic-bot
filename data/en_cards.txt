@@ -1,110 +1,108 @@
-cards_en = [
-"The search for a path and striving for new heights.\n❓ Which steps of your journey currently need attention?",
-"Emotional challenges and the search for harmony.\n❓ Where do you let yourself flow, and where do you sink?",
-"The birth of an idea or a new stage of life with the support of others.\n❓ Which idea of yours needs support to flourish?",
-"The desire to see more, to seek perspective.\n❓ What are you trying to see beyond the usual?",
-"Inner experiences and memories of the past.\n❓ Which events shape your worldview?",
-"Height and detachment from material expectations.\n❓ What is higher than values for you, and what is just trivial?",
-"Searching for direction in emptiness, resilience and guides.\n❓ What do you rely on in difficult moments?",
-"Time, cooperation, and avoiding reality.\n❓ What do you postpone by avoiding action?",
-"Protection and support in the journey toward your strength.\n❓ Who or what guards your inner freedom?",
-"The path to a personal peak or inner experience.\n❓ Which peak are you striving for?",
-"Social pressure and desire for freedom.\n❓ What do you want to be free from?",
-"Fragility of the system and responsibility for stability.\n❓ What are you trying to keep balanced?",
-"Gradual growth and striving for freedom.\n❓ What steps are you ready to take to reach your horizons?",
-"A journey through knowledge and experience.\n❓ Where are you now on the path to understanding yourself?",
-"Freedom and limitation, protection and captivity.\n❓ What limits your freedom, and what protects it?",
-"Observation and power through symbols.\n❓ What do you notice, and what is hidden from the eyes of others?",
-"Aspiration toward the unknown and reflection on depths.\n❓ What are you afraid to explore within yourself?",
-"Creation and decay, cycles of life.\n❓ What beginnings and endings are present in your life now?",
-"Play and reality, hidden opportunities.\n❓ Where does your play meet real life?",
-"Inner contradictions and dark sides.\n❓ Which parts of yourself do you hide or ignore?",
-"Restoration and repair of reality.\n❓ What are you trying to fix in your world?",
-"Risk and trust in the unknown.\n❓ Where are you afraid to take a step into the void?",
-"Observing changes and unpredictability.\n❓ What changes are you currently noticing in your life?",
-"Life and death, listening and creation.\n❓ What do you learn from the unpredictable processes of life?",
-"Risk under limited conditions.\n❓ Where are you willing to jump despite fear?",
-"Control of time and limitations.\n❓ What are you trying to influence, and what is beyond your control?",
-"Power, submission, and time.\n❓ Which power are you trying to tame?",
-"Connection, transfer of effort, and responsibility.\n❓ Whom do you support, and who supports you?",
-"Struggle with chaos and strength of spirit.\n❓ How do you cope with the storm inside yourself?",
-"Fragility of balance and strangeness of support.\n❓ What do your decisions rest on?",
-"Unattainable goals.\n❓ What do you want but do not yet have the strength to achieve?",
-"The cosmos in everyday life.\n❓ Where do you seek the unusual in the ordinary?",
-"Compassion and pain.\n❓ Which pain are you ready to embrace?",
-"Forces that play with fates.\n❓ Which external forces influence your decisions?",
-"Seeking light and access.\n❓ Which key is currently in your hands?",
-"Fragile transitions.\n❓ What risk are you willing to take to move forward?",
-"Aspiration to the cosmos, dreams.\n❓ What do you look at with admiration?",
-"Mystery and attraction of symbols.\n❓ Which symbol is incomprehensible to you?",
-"Power, death, and the desire for life.\n❓ What do you desire, even knowing the end?",
-"Passion and movement.\n❓ Where does your love propel you forward?",
-"Hidden levels of personality.\n❓ Which masks are you removing now?",
-"Birth of new images and roles.\n❓ Which roles do you try on to understand yourself?",
-"Role play and seeing the world differently.\n❓ Which roles do you try on to view life from another side?",
-"Creation amid chaos.\n❓ How do you create when circumstances interfere?",
-"Mind, held back and aspiring.\n❓ What keeps your mind from flying?",
-"Illusion and surprise.\n❓ Where is your personal jester hidden?",
-"Multiplicity and inner roles.\n❓ Which three faces of yours appear most often?",
-"Protection and inspiration through music.\n❓ Who or what supports you in moments of creativity?",
-"Pressure and the cost of choice.\n❓ What are you willing to pay a high price for?",
-"Keeping and access to secrets.\n❓ Which of your knowledge is closed to others?",
-"Removing illusions and moving forward.\n❓ Which mask is it time to let go of?",
-"Journey into the past.\n❓ Whose experience supports your path?",
-"Complete immersion in brightness.\n❓ What are you ready to immerse yourself in without reservation?",
-"Exploring emptiness.\n❓ Which inner voids of yours are waiting for attention?",
-"Vulnerability and strength.\n❓ What preserves the secret of creation and destruction for you?",
-"Confusion and loss of color.\n❓ Where is your energy stuck?",
-"Seeing the world in another dimension.\n❓ Which secret does your everyday life hold?",
-"Stage of success and crowd attention.\n❓ What is your recognition worth?",
-"Blinding and decline.\n❓ What do you not want to see around you?",
-"Music and the play of fate.\n❓ How does your inner jester sound?",
-"Desire to seize beauty.\n❓ What do you want to touch despite prohibition?",
-"Loneliness among \"likes\".\n❓ Where do you lack real contact?",
-"Path to a goal and observant gaze.\n❓ Whose gaze do you feel on your path?",
-"Meeting and handshake.\n❓ Which meeting are you expecting?",
-"Knowledge and danger nearby.\n❓ Which secret stories do you read?",
-"Connections and entanglement.\n❓ Which knots are you creating or unraveling?",
-"Closedness and hidden life.\n❓ What is currently hidden from the world?",
-"Symbol of hidden essence.\n❓ What is hidden behind your \"apple\"?",
-"Absurdity and sweetness.\n❓ Where do you find joy in oddities?",
-"Illusion of the path.\n❓ On which of your steps does the illusion rely?",
-"Support and hierarchy.\n❓ On whose shoulders do you stand?",
-"Confused perspective.\n❓ Where did your dreams turn out closer than expected?",
-"Vulnerability and play.\n❓ Where do you hide your sadness under the jester's mask?",
-"Control and fear.\n❓ What keeps you in the net?",
-"Freedom and roots.\n❓ Where is your sky, and where is your ground?",
-"Symbols of elements and choice.\n❓ Which is your sphere — red, blue, or cloudy?",
-"Ingenuity and progress.\n❓ Where do you look for your \"sphere\" among cubes?",
-"Fragility of the world and intervention.\n❓ What destroys or saves your world?",
-"Darkness and cosmos within.\n❓ What frightens and attracts you at the same time?",
-"Fragile beauty amid mechanics.\n❓ Where do you seek elegance among heaviness?",
-"Loss of illusions.\n❓ Which of your childhood symbols have lost their power?",
-"Intimacy and inner secrets.\n❓ What does your closeness hide?",
-"Play and lightness.\n❓ How do you catch joy in everyday life?",
-"Distorted perception.\n❓ Where do you see yourself differently than you really are?",
-"Attraction to another world.\n❓ What in you is foreign and incomprehensible?",
-"Supports destroyed.\n❓ Which of your foundations are you losing?",
-"Gaze and reflection.\n❓ In whose gaze do you live?",
-"Strategy and play.\n❓ Which game are you playing in your life?",
-"Wisdom in confinement, hidden under another image.\n❓ Where is your wisdom covered by a mask?",
-"Competition and loss of support.\n❓ Who or what undermines your strength?",
-"Behind joy hides tragedy.\n❓ What price do you pay for others’ smiles?",
-"Striving for the ideal through pain.\n❓ Whose attention or approval are you seeking?",
-"Duality of reality and protection.\n❓ What in your life is real, and what is like game pixels?",
-"Attempt to protect from external forces.\n❓ What are you trying to preserve at all costs?",
-"Non-acceptance of environment and essence.\n❓ Where do you feel “out of place”?",
-"Identity and choice of role.\n❓ Which mask do you put on most often?",
-"Holding onto what is leaving.\n❓ What are you afraid of losing completely?",
-"Actions that resonate in others’ thoughts.\n❓ Which of your actions leave traces in others’ minds?",
-"Great symbols in dry reality.\n❓ Which big ideas do you carry in dry circumstances?",
-"Indecision at the crossroads.\n❓ Which path do you postpone, fearing a mistake?",
-"Creating joy even in darkness.\n❓ Where can you find your rainbow in grayness?",
-"Increasing details and attention to the outside.\n❓ Which details seem disproportionately important to you?",
-"Aspiration to look beyond.\n❓ What do you want to see “above the ceiling”?",
-"Absurdity and ease of perception.\n❓ Where do you allow yourself to relax from seriousness?",
-"Vulnerability before the scale of the world.\n❓ How do you feel before the face of infinity?",
-"Foundation on chaos.\n❓ On which fragments are you standing now?",
-"Tool without an environment.\n❓ Where do you keep a tool that doesn’t suit you?",
-"Stagnation and uncertainty of choice.\n❓ How do you decide when no one yields?"
-]
+The search for a path and striving for new heights.❓ Which steps of your journey currently need attention?
+Emotional challenges and the search for harmony.❓ Where do you let yourself flow, and where do you sink?
+The birth of an idea or a new stage of life with the support of others.❓ Which idea of yours needs support to flourish?
+The desire to see more, to seek perspective.❓ What are you trying to see beyond the usual?
+Inner experiences and memories of the past.❓ Which events shape your worldview?
+Height and detachment from material expectations.❓ What is higher than values for you, and what is just trivial?
+Searching for direction in emptiness, resilience and guides.❓ What do you rely on in difficult moments?
+Time, cooperation, and avoiding reality.❓ What do you postpone by avoiding action?
+Protection and support in the journey toward your strength.❓ Who or what guards your inner freedom?
+The path to a personal peak or inner experience.❓ Which peak are you striving for?
+Social pressure and desire for freedom.❓ What do you want to be free from?
+Fragility of the system and responsibility for stability.❓ What are you trying to keep balanced?
+Gradual growth and striving for freedom.❓ What steps are you ready to take to reach your horizons?
+A journey through knowledge and experience.❓ Where are you now on the path to understanding yourself?
+Freedom and limitation, protection and captivity.❓ What limits your freedom, and what protects it?
+Observation and power through symbols.❓ What do you notice, and what is hidden from the eyes of others?
+Aspiration toward the unknown and reflection on depths.❓ What are you afraid to explore within yourself?
+Creation and decay, cycles of life.❓ What beginnings and endings are present in your life now?
+Play and reality, hidden opportunities.❓ Where does your play meet real life?
+Inner contradictions and dark sides.❓ Which parts of yourself do you hide or ignore?
+Restoration and repair of reality.❓ What are you trying to fix in your world?
+Risk and trust in the unknown.❓ Where are you afraid to take a step into the void?
+Observing changes and unpredictability.❓ What changes are you currently noticing in your life?
+Life and death, listening and creation.❓ What do you learn from the unpredictable processes of life?
+Risk under limited conditions.❓ Where are you willing to jump despite fear?
+Control of time and limitations.❓ What are you trying to influence, and what is beyond your control?
+Power, submission, and time.❓ Which power are you trying to tame?
+Connection, transfer of effort, and responsibility.❓ Whom do you support, and who supports you?
+Struggle with chaos and strength of spirit.❓ How do you cope with the storm inside yourself?
+Fragility of balance and strangeness of support.❓ What do your decisions rest on?
+Unattainable goals.❓ What do you want but do not yet have the strength to achieve?
+The cosmos in everyday life.❓ Where do you seek the unusual in the ordinary?
+Compassion and pain.❓ Which pain are you ready to embrace?
+Forces that play with fates.❓ Which external forces influence your decisions?
+Seeking light and access.❓ Which key is currently in your hands?
+Fragile transitions.❓ What risk are you willing to take to move forward?
+Aspiration to the cosmos, dreams.❓ What do you look at with admiration?
+Mystery and attraction of symbols.❓ Which symbol is incomprehensible to you?
+Power, death, and the desire for life.❓ What do you desire, even knowing the end?
+Passion and movement.❓ Where does your love propel you forward?
+Hidden levels of personality.❓ Which masks are you removing now?
+Birth of new images and roles.❓ Which roles do you try on to understand yourself?
+Role play and seeing the world differently.❓ Which roles do you try on to view life from another side?
+Creation amid chaos.❓ How do you create when circumstances interfere?
+Mind, held back and aspiring.❓ What keeps your mind from flying?
+Illusion and surprise.❓ Where is your personal jester hidden?
+Multiplicity and inner roles.❓ Which three faces of yours appear most often?
+Protection and inspiration through music.❓ Who or what supports you in moments of creativity?
+Pressure and the cost of choice.❓ What are you willing to pay a high price for?
+Keeping and access to secrets.❓ Which of your knowledge is closed to others?
+Removing illusions and moving forward.❓ Which mask is it time to let go of?
+Journey into the past.\❓ Whose experience supports your path?
+Complete immersion in brightness.❓ What are you ready to immerse yourself in without reservation?
+Exploring emptiness.❓ Which inner voids of yours are waiting for attention?
+Vulnerability and strength.❓ What preserves the secret of creation and destruction for you?
+Confusion and loss of color.❓ Where is your energy stuck?
+Seeing the world in another dimension.❓ Which secret does your everyday life hold?
+Stage of success and crowd attention.❓ What is your recognition worth?
+Blinding and decline.❓ What do you not want to see around you?
+Music and the play of fate.❓ How does your inner jester sound?
+Desire to seize beauty.❓ What do you want to touch despite prohibition?
+Loneliness among \"likes\".❓ Where do you lack real contact?
+Path to a goal and observant gaze.❓ Whose gaze do you feel on your path?
+Meeting and handshake.❓ Which meeting are you expecting?
+Knowledge and danger nearby.❓ Which secret stories do you read?
+Connections and entanglement.❓ Which knots are you creating or unraveling?
+Closedness and hidden life.❓ What is currently hidden from the world?
+Symbol of hidden essence.❓ What is hidden behind your \"apple\"?
+Absurdity and sweetness.❓ Where do you find joy in oddities?
+Illusion of the path.❓ On which of your steps does the illusion rely?
+Support and hierarchy.❓ On whose shoulders do you stand?
+Confused perspective.❓ Where did your dreams turn out closer than expected?
+Vulnerability and play.❓ Where do you hide your sadness under the jester's mask?
+Control and fear.❓ What keeps you in the net?
+Freedom and roots.❓ Where is your sky, and where is your ground?
+Symbols of elements and choice.❓ Which is your sphere — red, blue, or cloudy?
+Ingenuity and progress.❓ Where do you look for your \"sphere\" among cubes?
+Fragility of the world and intervention.❓ What destroys or saves your world?
+Darkness and cosmos within.❓ What frightens and attracts you at the same time?
+Fragile beauty amid mechanics.❓ Where do you seek elegance among heaviness?
+Loss of illusions.\❓ Which of your childhood symbols have lost their power?
+Intimacy and inner secrets.❓ What does your closeness hide?
+Play and lightness.❓ How do you catch joy in everyday life?
+Distorted perception.❓ Where do you see yourself differently than you really are?
+Attraction to another world.❓ What in you is foreign and incomprehensible?
+Supports destroyed.❓ Which of your foundations are you losing?
+Gaze and reflection.❓ In whose gaze do you live?
+Strategy and play.❓ Which game are you playing in your life?
+Wisdom in confinement, hidden under another image.❓ Where is your wisdom covered by a mask?
+Competition and loss of support.❓ Who or what undermines your strength?
+Behind joy hides tragedy.❓ What price do you pay for others’ smiles?
+Striving for the ideal through pain.\❓ Whose attention or approval are you seeking?
+Duality of reality and protection.❓ What in your life is real, and what is like game pixels?
+Attempt to protect from external forces.❓ What are you trying to preserve at all costs?
+Non-acceptance of environment and essence.❓ Where do you feel “out of place”?
+Identity and choice of role.❓ Which mask do you put on most often?
+Holding onto what is leaving.❓ What are you afraid of losing completely?
+Actions that resonate in others’ thoughts.❓ Which of your actions leave traces in others’ minds?"
+Great symbols in dry reality.❓ Which big ideas do you carry in dry circumstances?
+Indecision at the crossroads.❓ Which path do you postpone, fearing a mistake?
+Creating joy even in darkness.❓ Where can you find your rainbow in grayness?
+Increasing details and attention to the outside.❓ Which details seem disproportionately important to you?
+Aspiration to look beyond.❓ What do you want to see “above the ceiling”?
+Absurdity and ease of perception.❓ Where do you allow yourself to relax from seriousness?
+Vulnerability before the scale of the world.❓ How do you feel before the face of infinity?
+Foundation on chaos.❓ On which fragments are you standing now?
+Tool without an environment.❓ Where do you keep a tool that doesn’t suit you?
+Stagnation and uncertainty of choice.❓ How do you decide when no one yields
